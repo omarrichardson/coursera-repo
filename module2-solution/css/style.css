@@ -27,6 +27,16 @@ h2 {
     background-color: pink;
 }
 
+.Beef {
+    background-color: #FF0000;
+    color: #FFFFFF;
+}
+
+.Sushi {
+    background-color: #FFFFCC;
+    color: #000000;
+}
+
 .section {
     width: 30%;
     float: left;
