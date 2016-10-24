@@ -25,6 +25,7 @@ h2 {
 
 .Chicken {
     background-color: pink;
+    color: #000000;
 }
 
 .Beef {
@@ -64,6 +65,9 @@ h2 {
     .col-md-6 {
         width: 50%;
         padding: 1%;
+    }
+    #sec3 {
+        width: 200%;
     }
 }
 
