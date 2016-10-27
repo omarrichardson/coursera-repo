@@ -8,5 +8,8 @@
     font-weight: bold;
     text-shadow: 1px 1px 1px #222;
     letter-spacing: 0.5px;
-    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#nav-list {
+    text-align: center;
 }
