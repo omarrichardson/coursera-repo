@@ -1,3 +1,7 @@
+* {
+    font-family: 'Varela Round', sans-serif;
+}
+
 .navbar-brand {
     line-height: .75;
     text-transform: uppercase;
@@ -6,7 +10,11 @@
     letter-spacing: 0.5px;
 }
 
-.navbar-default .container .navbar-header .navbar-brand {
+.navbar-default .container-fluid .navbar-header .navbar-brand {
     color: #000000;
-    text-shadow: 1px 1px 1px #222;
+    text-shadow: 1.5px 1.5px 1.5px #222;
+}
+
+.navbar-nav li>a {
+    text-align: center;
 }
