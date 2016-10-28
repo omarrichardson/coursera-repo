@@ -18,3 +18,16 @@
 .navbar-nav li>a {
     text-align: center;
 }
+
+.jumbotron>p {
+    font-size: 18px;
+}
+
+h2 {
+    padding: 30px;
+}
+
+h3 {
+    position: relative;
+    bottom: 20px;
+}
