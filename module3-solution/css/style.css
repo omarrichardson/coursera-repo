@@ -12,7 +12,7 @@
 
 .navbar-default .container-fluid .navbar-header .navbar-brand {
     color: #000000;
-    text-shadow: 1.5px 1.5px 1.5px #222;
+    text-shadow: 1.8px 1.8px 1.8px #222;
 }
 
 .navbar-nav li>a {
@@ -25,9 +25,22 @@
 
 h2 {
     padding: 30px;
+    font-family: 'Varela Round', sans-serif;
 }
 
 h3 {
     position: relative;
     bottom: 20px;
+}
+
+@media (max-width: 767px) {
+    .row .container .jumbotron {
+        margin: 0px 40px 0px 40px;
+    }
+}
+
+@media (max-width:767px) {
+    .row .container .jumbotron p {
+        font-size: 16px;
+    }
 }
