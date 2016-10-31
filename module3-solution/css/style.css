@@ -33,6 +33,23 @@ h3 {
     bottom: 20px;
 }
 
+.container {
+    padding-bottom: 20px;
+}
+
+.panel-footer {
+    font-size: .8em;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
+/*
+.panel-footer .container .text-center .btn btn-social-icon btn-github {
+    position: relative;
+    left: 100px;
+}*/
+
 @media (max-width: 767px) {
     .row .container .jumbotron {
         margin: 0px 40px 0px 40px;
