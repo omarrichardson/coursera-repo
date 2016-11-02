@@ -23,6 +23,18 @@
     font-size: 18px;
 }
 
+.navbar-default .navbar-nav>li>a {
+    outline: none;
+    text-decoration: none;
+    line-height: 1;
+    color: #000000;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #b2b0a9;
+    font-size: 2em;
+}
+
 h2 {
     padding: 30px;
     font-family: 'Varela Round', sans-serif;
@@ -42,13 +54,6 @@ h3 {
     padding-top: 15px;
     padding-bottom: 15px;
 }
-
-
-/*
-.panel-footer .container .text-center .btn btn-social-icon btn-github {
-    position: relative;
-    left: 100px;
-}*/
 
 @media (max-width: 767px) {
     .row .container .jumbotron {
